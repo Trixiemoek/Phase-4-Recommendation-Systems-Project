@@ -126,7 +126,7 @@ bashCopy code git clone https://github.com/Trixiemoek/Phase-4-Recommendation-   
 •	MovieLens dataset: Dataset used for training and evaluation.
 
 **Contributors**
-•	Trexie
+•	Trixie
 •	Peter
 •	Mercy 
 •	Ahmed
